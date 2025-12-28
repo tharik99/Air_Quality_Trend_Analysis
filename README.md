@@ -1,2 +1,2 @@
 # Air_Quality_Trend_Analysis
-Analysis of trends in air quality across London city based on data collected at 36 air monitoring sites located in London from 01/01/2022 to 31/12/2023.
+This project performs an exploratory data analysis (EDA) of air quality across London city using data from 36 air monitoring stations. The study examines spatial, temporal, and seasonal patterns of key air pollutants from January 2022 to December 2023. The objective is to understand how pollutant levels vary by location, month, and time of day, and to identify relationships between different pollutants.
